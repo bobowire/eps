@@ -1,2 +1,2 @@
 # eps
-eps（EasyProxyServeer），支持http、socket4、socket5的代理服务器
+eps（EasyProxyServeer），支持http、socks4、socks5的代理服务器
